@@ -19,7 +19,7 @@
 ![Alt text](image-2.png)
 3. getFullYear() - возвращает год (четырехзначное число)
 ![Alt text](image-3.png)
-4. getHours() - возвращает час (от 0 до 23)
+4. getHours() - возвращает час (от 0 до 23)               
 ![Alt text](image-4.png)
 5. getMinutes() - возвращает минуты (от 0 до 59)
 ![Alt text](image-5.png)
